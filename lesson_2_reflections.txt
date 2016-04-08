@@ -14,5 +14,14 @@ How can you use the staging area to make sure you have one commit per logical ch
 2.give the command git status to find  the modified files.
 3.compare the files with command git diff and git diff --staged
 4.If the changes are confirmed then commit or discard changes and commit.
-
 __________________________________________________________________________________________________________________________________
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+1.If we need to add different(new experimental) features we can check out the branch version of the master(original file) and add all 
+features to that release and debug.So that the master version will not affected and later we can even merge to the original.
+2. Branches help switch from master and branch version 
+3. Updated branch version can be merged to the master
+4. Its helpful for code stability
+__________________________________________________________________________________________________________________________________
+
