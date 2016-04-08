@@ -25,3 +25,9 @@ features to that release and debug.So that the master version will not affected 
 4. Its helpful for code stability
 __________________________________________________________________________________________________________________________________
 
+How do the diagrams help you visualize the branch structure?
+
+1.It was very helpful
+2.Better understanding
+__________________________________________________________________________________________________________________________________
+
