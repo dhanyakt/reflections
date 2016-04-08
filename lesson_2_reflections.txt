@@ -9,4 +9,10 @@ How is the staging area different from the working directory and the repository?
 3.Working directory -  contains all the file.
 ______________________________________________________________________________________________________________________________________
 
+How can you use the staging area to make sure you have one commit per logical change?
+1.Add modified changes to staging area
+2.give the command git status to find  the modified files.
+3.compare the files with command git diff and git diff --staged
+4.If the changes are confirmed then commit or discard changes and commit.
 
+__________________________________________________________________________________________________________________________________
