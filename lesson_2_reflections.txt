@@ -1,13 +1,12 @@
 What happens when you initialize a repository? Why do you need to do it?
-
-Initialize or creates new repository.
-To create  git repository.
----------------------------------------------------------------------------------------------------------------------------------
-
+1.Initialize or creates new repository.
+2.To create  git repository where it stores the metadata and history about repository.
+______________________________________________________________________________________________________________________________________
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-Working directory consists all files but in staging area we can add the logically related files and 
-commit once to the repository. Staging area offers commit once with logically related files.
+1.In staging area we can add the logically related files and commit once to the repository. 
+2.Staging area offers commit once with logically related files with changes.
+3.Working directory -  contains all the file.
+______________________________________________________________________________________________________________________________________
 
-----------------------------------------------------------------------------------------------------------------------------------
 
