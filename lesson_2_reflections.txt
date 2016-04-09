@@ -31,3 +31,11 @@ How do the diagrams help you visualize the branch structure?
 2.Better understanding
 __________________________________________________________________________________________________________________________________
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+1. When two branches are merged -
+a.both the functionalities are merged.
+b.both branch commits are available from the merged one.
+(we will be able to delete the branch label but we can access the history of the commits of both branches)
+2. The visual representation gives the picture of where it is branched and further commits.
+__________________________________________________________________________________________________________________________________
