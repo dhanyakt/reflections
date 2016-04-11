@@ -5,3 +5,11 @@ Why might you want to always pull changes manually rather than having Git automa
 remote repository?
 
 -Code stability.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+clone - to make a copy of the remote repository in local and add functionalities
+branches - to branch out from the local master for adding new feature,code fixing,experimenting...
+fork - to make copy of the others repository and add files (new features ) without affecting the original file of the owner.
+
+
