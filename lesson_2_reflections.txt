@@ -39,3 +39,13 @@ b.both branch commits are available from the merged one.
 (we will be able to delete the branch label but we can access the history of the commits of both branches)
 2. The visual representation gives the picture of where it is branched and further commits.
 __________________________________________________________________________________________________________________________________
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic                                           |                      Manual
+-------------------------------------------------------------------------------------------------------------------                                     
+Pros: Git shows conflict marked                     |   Developer has the flexibility and knows where is the change and 
+ areas.So its possible to make                      |   how it should be changed. 
+changes in the file and then commit.                |
+Cons: It might not be always correct                |      Sometimes can miss the conflict areas. 
+__________________________________________________________________________________________________________________________________	
+                                       									
