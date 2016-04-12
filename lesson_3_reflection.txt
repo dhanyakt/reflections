@@ -12,4 +12,14 @@ clone - to make a copy of the remote repository in local and add functionalities
 branches - to branch out from the local master for adding new feature,code fixing,experimenting...
 fork - to make copy of the others repository and add files (new features ) without affecting the original file of the owner.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+When we make a change in the local master the recent commit will be tip.So if we have copy of the 
+last known state of the recent commit this enables the comparison/difference between the local copy and the master 
+in the local and through this will be able to know the recent updates and later code changes can be merged. 
+
+
+
+
+
 
