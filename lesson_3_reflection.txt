@@ -4,6 +4,8 @@ When would you want to use a remote repository rather than keeping all your work
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your 
 remote repository?
 
+If there is any new commit added to the local master and if GGit pulls automatically the commit made by 
+local master can't be accessed.
 -Code stability.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
@@ -17,6 +19,18 @@ What is the benefit of having a copy of the last known state of the remote store
 When we make a change in the local master the recent commit will be tip.So if we have copy of the 
 last known state of the recent commit this enables the comparison/difference between the local copy and the master 
 in the local and through this will be able to know the recent updates and later code changes can be merged. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Bitbucket is an option for collaboration but it is also built on top of Git. I am not sure though 
+as I haven't used other tools that much. 
+
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+When we want to collaborate the codes with some tweaks we need make sure changes made are correct and 
+this enables that and we will be able to merge the branch with master with the correct changes.
+
 
 
 
